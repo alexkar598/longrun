@@ -3,7 +3,7 @@
 	loop_checks = FALSE
 
 /world/New()
-	log << "Initial value of sleep_offline: [sleep_offline]"
+	log << "Initial value of sleep_offlin2e: [sleep_offline]"
 	sleep_offline = FALSE
 
 	// Intentionally slow down startup for testing purposes
